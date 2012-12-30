@@ -1,0 +1,22 @@
+#Tue Dec 06 21:47:30 GMT 2011
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/name=Bundle pool
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/uri=http\://download.eclipse.org/eclipse/updates/3.5
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/enabled=false
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/suffix=artifacts.xml
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/version=1
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/enabled=true
+eclipse.preferences.version=1
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/name=download cache
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/isSystem=true
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/provider=
+repositories/http\:__download.eclipse.org_eclipse_updates_3.5/isSystem=false
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/enabled=true
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/uri=file\:/C\:/My-Apps/rcpapp_plugin-based/
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/description=
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based/provider=
+repositories/file\:_C\:_My-Apps_rcpapp_plugin-based_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/C\:/My-Apps/rcpapp_plugin-based/p2/org.eclipse.equinox.p2.core/cache/
